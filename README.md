@@ -28,7 +28,6 @@ class PersonalData():
         self.username = "04Joaco"
         self.location = "Argentina, Buenos Aires"
         self.years = "21 years"
-        self.instagram = "@joacomor4"
   
   def __str__(self):
     return self.name
